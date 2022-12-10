@@ -32,9 +32,10 @@ justify-content: center
  a{display: inline-flex; 
   text-decoration: none;
 font-size: 40px;}
-a:hover{
+a:hover{background-color:rgb(228, 220, 220) ;
   color: rgb(146, 20, 20);
-
+border-radius: 5px;
+  margin-bottom: 5px;
 }
 a #pdf{
   margin-left:4px;
