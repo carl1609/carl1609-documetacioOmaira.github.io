@@ -51,4 +51,28 @@ height: 50px;
 
 }
  
+ .presentacion{
+  display:inline-flex;
+  font-size: 50px;
+  border-bottom: 5px solid black;
+}
+.tiposdecateteres{
+  display:inline-flex;
+  font-size: 50px;
+  border-bottom: 5px solid black;
+}
+.archivosdereferencia{
+  display:inline-flex;
+  font-size: 50px;
+  border-bottom: 5px solid black;
+  letter-spacing: -2px;
+}
+.imagen13{
+  margin-top: 10px;
+}
+a{
+  font-family: 'Courier New', Courier, monospace;
+  letter-spacing: -3px;
+  
+}
  
