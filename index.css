@@ -30,7 +30,7 @@ justify-content: center
   border-bottom: 5px solid mediumpurple;
  }
  a{
-     border:5px solid rgb(188, 186, 184) ;
+     border:2px solid rgb(188, 186, 184) ;
     border-radius: 5px;
   margin-bottom: 5px;
      display: inline-flex; 
@@ -39,8 +39,8 @@ font-size: 40px;
 }
 
 a:hover{
-    background-color:rgb(228, 220, 220) ;
-  color: rgb(146, 20, 20);
+    background-color:rgb(168, 193, 232) ;
+  color: rgb(136, 5, 168);
 border-radius: 5px;
   margin-bottom: 5px;
 }
@@ -70,7 +70,8 @@ height: 50px;
 .imagen13{
   margin-top: 10px;
 }
-a{
+a{ 
+    color:rgb(6, 6, 6);
   font-family: 'Courier New', Courier, monospace;
   letter-spacing: -3px;
   
