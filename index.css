@@ -76,4 +76,9 @@ a{
   letter-spacing: -3px;
   
 }
+.terapia-intravenosa{
+    margin-top: 5px;
+    display:inline-flex;
+  font-size: 50px;
+  border-bottom: 5px solid black;
  
